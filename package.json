@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "Sensible booking status template",
   "main": "dist/index.js",
-  "types" : "dist/index.d.ts",
+  "types": "dist/index.d.ts",
   "repository": "https://github.com/nicklaros/booking-status",
   "author": "Nick Laros <nicklaros@gmail.com>",
   "license": "MIT",
